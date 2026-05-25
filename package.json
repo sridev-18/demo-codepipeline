@@ -1,0 +1,13 @@
+{
+  "name": "checklist-app",
+  "version": "1.0.0",
+  "description": "Simple Checklist Website",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "build": "echo Build step (optional)"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
